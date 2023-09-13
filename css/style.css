@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body,html{
+    overflow-x: hidden;
+}
+.hero{
+    background-image: url("../image/owl-50267_1920.jpg");
+}
+
+
+
