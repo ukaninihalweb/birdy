@@ -8,7 +8,7 @@ body,html{
 .hero{
     background-image: url("../image/owl-50267_1920.jpg");
 }
-@media only screen and(max-width:375px) {
+@media(max-width:375px) {
     .subbtn{
     margin-top: 5px !important;
 }
